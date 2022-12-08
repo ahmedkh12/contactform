@@ -1,0 +1,13 @@
+form{
+    max-width: 450px;
+    margin: 50px auto;
+}
+
+form input ,
+form textarea, h1{
+    margin-bottom: 10px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Tahoma, Geneva, Verdana, sans-serif;
+}
